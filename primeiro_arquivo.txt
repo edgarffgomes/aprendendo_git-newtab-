@@ -1,0 +1,17 @@
+Git/Github
+
+git init -  inicia repositório
+
+git add - adiciona arquivos para serem estado de stage
+
+git commit -  commita(envia) arquivos para o repositório remoto
+
+git branch -cria ou acessa uma ramificação do repositório
+
+git clone - clona um repositório já existente
+
+git fork -  cria uma cópia de um repositório já existente
+
+git push - envia mudanças para o repositório remoto
+
+git pull - recebe as mudanças do repositório remoto
